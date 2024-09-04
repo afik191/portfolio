@@ -124,5 +124,10 @@ button:hover {
   .navigation-ul{
    display: none;
   }
- 
+  .form-container{
+    flex-direction: column;
+  }
+  .icons-container{
+    flex-direction: row;
+  }
 }
